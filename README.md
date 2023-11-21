@@ -1,6 +1,7 @@
+
 # tallerchatbot
 
-Estos son los codigos ejemplo del curso "Construye tu Chatbot Custumizado" del CGFIUBA.
+Estos son los códigos de ejemplo del curso "Construye tu Chatbot Personalizado" del CGFIUBA.
 
 ## Clonar el Repositorio
 
@@ -8,10 +9,9 @@ Para clonar este repositorio, sigue estos pasos:
 
 1. Abre tu terminal o línea de comandos.
 2. Utiliza el siguiente comando:
-
-'''bash
-git clone https://github.com/ofazzito/tallerbot.git
-'''
+   ```bash
+   git clone https://github.com/ofazzito/tallerbot.git
+   ```
 
 ## Configurar un Entorno Virtual (venv)
 
@@ -23,14 +23,15 @@ Se recomienda utilizar un entorno virtual para este proyecto. Sigue estos pasos 
 2. Navega hasta la carpeta del proyecto.
 3. Ejecuta el siguiente comando para crear un entorno virtual:
 
-'''bash
-python -m venv env
-'''
+   ```bash
+   python -m venv env
+   ```
+
 4. Activa el entorno virtual:
 
-'''bash
-env\Scripts\activate
-'''
+   ```bash
+   env\Scripts\activate
+   ```
 
 ### En macOS y Linux
 
@@ -38,21 +39,22 @@ env\Scripts\activate
 2. Navega hasta la carpeta del proyecto.
 3. Ejecuta el siguiente comando para crear un entorno virtual:
 
-'''bash
-python3 -m venv env
-'''
+   ```bash
+   python3 -m venv env
+   ```
+
 4. Activa el entorno virtual:
 
-'''bash
-source env/bin/activate
-'''
+   ```bash
+   source env/bin/activate
+   ```
 
 ## Instalar Requerimientos
 
 Una vez que tengas activado tu entorno virtual, instala los requerimientos utilizando pip:
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 Esto instalará todas las dependencias necesarias para el proyecto.
