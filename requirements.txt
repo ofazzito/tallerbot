@@ -1,2 +1,6 @@
 openai
 gradio
+transformers
+torch
+pygame
+pyttsx3
