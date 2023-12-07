@@ -4,3 +4,4 @@ flagged/
 *.pyc
 *.log
 config.py
+DB/

@@ -4,3 +4,8 @@ transformers
 torch
 pygame
 pyttsx3
+param
+langchain
+pypdf
+chromadb
+tiktoken
